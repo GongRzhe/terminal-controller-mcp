@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gongrzhe-terminal-controller-mcp-badge.png)](https://mseep.ai/app/gongrzhe-terminal-controller-mcp)
+
 # Terminal Controller for MCP
 
 A Model Context Protocol (MCP) server that enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.
